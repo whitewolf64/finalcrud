@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finalcrud/static/css/main.b3eeeea7.css",
+    "main.js": "/finalcrud/static/js/main.5aec3237.js",
+    "index.html": "/finalcrud/index.html",
+    "main.b3eeeea7.css.map": "/finalcrud/static/css/main.b3eeeea7.css.map",
+    "main.5aec3237.js.map": "/finalcrud/static/js/main.5aec3237.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3eeeea7.css",
+    "static/js/main.5aec3237.js"
+  ]
+}
